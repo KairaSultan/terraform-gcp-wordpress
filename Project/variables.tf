@@ -51,7 +51,7 @@ variable "db_password" {
 
 variable "db_username" {
   type        = string
-  default     = "pedrobalza"
+  default     = "marieane22"
   description = "input the database authorized user "
 }
 
@@ -118,7 +118,7 @@ variable "lb_name" {
 
 variable "dbinstance_name" {
   type        = string
-  default     = "kildare"
+  default     = "wordpressdb"
   description = "name of database instance"
 }
 
